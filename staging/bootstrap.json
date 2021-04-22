@@ -236,12 +236,12 @@
     },
     {
       "name": "http-api-1.19.0.jar",
-      "hash": "403a305d7552642f07ba3acefc9f04148bb07e2adef7efbdf7047388a5028e99",
+      "hash": "ffa74e9013498dd293b026f080bee6d5fbff3177e3a763e27a87be60d88df389",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/http-api-1.19.0.jar",
-      "size": 137386
+      "size": 137385
     }
   ],
-  "buildCommit": "003a62781b80869c2a88417240116569aafa5163",
+  "buildCommit": "0adb9267e4c2c943e6962c7b30ed136c33fdb566",
   "client": {
     "artifactId": "client",
     "classifier": "",

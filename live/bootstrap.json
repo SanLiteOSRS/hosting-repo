@@ -187,44 +187,68 @@
       "size": 617313
     },
     {
-      "name": "client-1.7.5.jar",
-      "hash": "cb1e0ada6f718b976925ba6a9d0e6c5ca81a1cd2b70d35badff880a7a90d08da",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/client-1.7.5.jar",
-      "size": 5695930
+      "name": "commons-io-2.8.0.jar",
+      "hash": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
+      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar",
+      "size": 285424
     },
     {
-      "name": "runelite-api-1.7.5.jar",
-      "hash": "e275c0b8276a0b477e5c1668d74388c30707529466ead84a5fac254ad6cb53ae",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.7.5.jar",
-      "size": 1176329
+      "name": "jocl-1.0.jar",
+      "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0.jar",
+      "size": 67704
     },
     {
-      "name": "runescape-api-1.7.5.jar",
-      "hash": "ba956a01b28474eaffa464b0490c8398f36f19698d65b4f7dc4a7cc4400e9a0c",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.7.5.jar",
-      "size": 61263
+      "name": "jocl-1.0-macos-x64.jar",
+      "hash": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-x64.jar",
+      "size": 59030
     },
     {
-      "name": "http-api-1.7.5.jar",
-      "hash": "f488c350eb3b605e383c53da94b7028975d7e351a38b4ff72ac56ea51f8d9be8",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.7.5.jar",
-      "size": 138674
+      "name": "jocl-1.0-macos-arm64.jar",
+      "hash": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-arm64.jar",
+      "size": 59579
     },
     {
-      "name": "injected-client-1.7.5.jar",
-      "hash": "ce77bd9ba25e28b0881bca5e3f67db93ce15c4b2b813acf8b772fe3dc1aa06c8",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/injected-client-1.7.5.jar",
-      "size": 2277887
+      "name": "runelite-client-1.19.0.jar",
+      "hash": "f579fcbc624566f25006d75c0af100b924b45413c13664832bc0171881ce8b15",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.19.0.jar",
+      "size": 8219195
+    },
+    {
+      "name": "runelite-api-1.19.0.jar",
+      "hash": "d43ff264928423c244b527ce320a9180f5028f11f679e55a772aa1da17f40fa8",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.19.0.jar",
+      "size": 1174728
+    },
+    {
+      "name": "runescape-api-1.19.0.jar",
+      "hash": "eeecc04b26f3d260a5c7036ccbbc4e232619541a66ecf5a3333f7ff6f87fffc5",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.19.0.jar",
+      "size": 106826
+    },
+    {
+      "name": "runelite-jshell-1.19.0.jar",
+      "hash": "30687d289c79b3b6397551af7e53c4418e45ce1aef3e6bdbc28c222920877fa9",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.19.0.jar",
+      "size": 22749
+    },
+    {
+      "name": "http-api-1.19.0.jar",
+      "hash": "ffa74e9013498dd293b026f080bee6d5fbff3177e3a763e27a87be60d88df389",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.19.0.jar",
+      "size": 137385
     }
   ],
-  "buildCommit": "364a80b1a38da2c35b92119e26831076cc7be633",
+  "buildCommit": "0adb9267e4c2c943e6962c7b30ed136c33fdb566",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
     "version": "1.7.5",
-    "sanliteVersion": "1.18.2",
+    "sanliteVersion": "1.19.0",
     "osrsRevision": "195"
   },
   "clientJvm9Arguments": [
