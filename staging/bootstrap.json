@@ -187,6 +187,12 @@
       "size": 617313
     },
     {
+      "name": "commons-io-2.8.0.jar",
+      "hash": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
+      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar",
+      "size": 285424
+    },
+    {
       "name": "runelite-client-1.19.0.jar",
       "hash": "f579fcbc624566f25006d75c0af100b924b45413c13664832bc0171881ce8b15",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-client-1.19.0.jar",
