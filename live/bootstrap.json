@@ -211,44 +211,44 @@
       "size": 59579
     },
     {
-      "name": "runelite-client-1.20.2.jar",
-      "hash": "f057a7062493c6066aa9b45623b93c46820379991d23d08f83780a4738e124c0",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.2.jar",
-      "size": 13291035
+      "name": "runelite-client-1.20.3.jar",
+      "hash": "ba948500e22be48582ce4478454096bc692a835bd80f60db405c6847d541fa80",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.3.jar",
+      "size": 13300698
     },
     {
-      "name": "runelite-api-1.20.2.jar",
-      "hash": "d07c2654bad7800fa4c28a9eed1c25ea77401ac0a370fef63ffdac24f55ccc9e",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.2.jar",
-      "size": 1206854
+      "name": "runelite-api-1.20.3.jar",
+      "hash": "cfc626f69bac88d9cb7144aaa57d62ffba1dfcd16b541d1ce1602a83d98122ef",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.3.jar",
+      "size": 1209827
     },
     {
-      "name": "runescape-api-1.20.2.jar",
-      "hash": "a293335aaf20edda2f6753f3b1609d530a1c3ddeb73239a6fba7bc1b5243e30c",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.2.jar",
-      "size": 108570
+      "name": "runescape-api-1.20.3.jar",
+      "hash": "e43afe791b3fa4796939db2f8de56273044657f829279ff712ce689ba812d8ac",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.3.jar",
+      "size": 108553
     },
     {
-      "name": "runelite-jshell-1.20.2.jar",
+      "name": "runelite-jshell-1.20.3.jar",
       "hash": "7ca10200ac9968def3fbf48bf15c0622a253f8ecc9c75ed6a3091b9abd6be025",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.2.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.3.jar",
       "size": 22967
     },
     {
-      "name": "http-api-1.20.2.jar",
-      "hash": "25725d2ae300343e7b8ab8553eee2715e60e1f94d038b49a5d9c14a3139c1db1",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.2.jar",
-      "size": 136210
+      "name": "http-api-1.20.3.jar",
+      "hash": "764b22aa67193182b0d82861f9c8f2f895a608b96d5e4e8a645dc3e16efcc61d",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.3.jar",
+      "size": 136383
     }
   ],
-  "buildCommit": "2af037c5a2423a49bcbfda03900c58f1cf765a5b",
+  "buildCommit": "1d255f450ed9177aeb2f018890cac627e52a3033",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
-    "version": "1.7.21.1",
-    "sanliteVersion": "1.20.2",
+    "version": "1.7.23",
+    "sanliteVersion": "1.20.3",
     "osrsRevision": "199"
   },
   "clientJvm9Arguments": [
