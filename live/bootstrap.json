@@ -103,10 +103,10 @@
       "size": 244518
     },
     {
-      "name": "jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
-      "hash": "e040f0f7e77ec76cf9afba153208ae8b437ef3358ffcfe994c002b68fcfddcb9",
-      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
-      "size": 232714
+      "name": "jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+      "hash": "b79043af5a6f64704c1cf70264aa9acfdf8435baeb3b8196fbeb04a0192b0f41",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all-natives-macosx/2.4.0-rc-20210117/jogl-all-natives-macosx-2.4.0-rc-20210117.jar",
+      "size": 466728
     },
     {
       "name": "gluegen-rt-2.4.0-rc-20200429.jar",
@@ -133,10 +133,10 @@
       "size": 4332
     },
     {
-      "name": "gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
-      "hash": "4714b9abe762315b3b42feee90dad2e755ad7a0f6baa5d2d11cbd3d08fe663db",
-      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
-      "size": 3457
+      "name": "gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+      "hash": "b43354ca58de215423c57d428abc5c8467a1a5f0b00199aa52a67fb9729c70ef",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt-natives-macosx/2.4.0-rc-20210117/gluegen-rt-natives-macosx-2.4.0-rc-20210117.jar",
+      "size": 6539
     },
     {
       "name": "archive-patcher-1.0.jar",
@@ -145,16 +145,16 @@
       "size": 163838
     },
     {
-      "name": "jna-4.5.1.jar",
-      "hash": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b",
-      "path": "https://mvn.runelite.net/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar",
-      "size": 1440662
+      "name": "jna-5.9.0.jar",
+      "hash": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
+      "path": "https://mvn.runelite.net/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar",
+      "size": 1729586
     },
     {
-      "name": "jna-platform-4.5.1.jar",
-      "hash": "84c8667555ee8dd91fef44b451419f6f16f71f727d5fc475a10c2663eba83abb",
-      "path": "https://mvn.runelite.net/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar",
-      "size": 2327547
+      "name": "jna-platform-5.9.0.jar",
+      "hash": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
+      "path": "https://mvn.runelite.net/net/java/dev/jna/jna-platform/5.9.0/jna-platform-5.9.0.jar",
+      "size": 1343236
     },
     {
       "name": "jsr305-3.0.2.jar",
@@ -181,10 +181,10 @@
       "size": 39978
     },
     {
-      "name": "discord-1.2.jar",
-      "hash": "0243291bb0c2844bbde977981a6e928ed2f5813a78e9edf786fc76d38404afd5",
-      "path": "https://repo.runelite.net/net/runelite/discord/1.2/discord-1.2.jar",
-      "size": 617313
+      "name": "discord-1.4.jar",
+      "hash": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
+      "path": "https://repo.runelite.net/net/runelite/discord/1.4/discord-1.4.jar",
+      "size": 681590
     },
     {
       "name": "commons-io-2.8.0.jar",
@@ -211,44 +211,44 @@
       "size": 59579
     },
     {
-      "name": "runelite-client-1.20.3.jar",
-      "hash": "ba948500e22be48582ce4478454096bc692a835bd80f60db405c6847d541fa80",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.3.jar",
-      "size": 13300698
+      "name": "runelite-client-1.20.4.jar",
+      "hash": "15797a14e86fc806bc90be2a5d3dea78ea44fca959c3cc82d0e0b4800d84aea8",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.4.jar",
+      "size": 9897529
     },
     {
-      "name": "runelite-api-1.20.3.jar",
-      "hash": "cfc626f69bac88d9cb7144aaa57d62ffba1dfcd16b541d1ce1602a83d98122ef",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.3.jar",
-      "size": 1209827
+      "name": "runelite-api-1.20.4.jar",
+      "hash": "bc0e968252d67dfe95d327066921528d4a50c58b3a9de2411ce88a2c312c6b48",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.4.jar",
+      "size": 1209910
     },
     {
-      "name": "runescape-api-1.20.3.jar",
-      "hash": "e43afe791b3fa4796939db2f8de56273044657f829279ff712ce689ba812d8ac",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.3.jar",
-      "size": 108553
+      "name": "runescape-api-1.20.4.jar",
+      "hash": "e7bf82421323f35604df3fc2eb7b7ecd69052866b8a1adfec23b875f91c9281e",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.4.jar",
+      "size": 109211
     },
     {
-      "name": "runelite-jshell-1.20.3.jar",
+      "name": "runelite-jshell-1.20.4.jar",
       "hash": "7ca10200ac9968def3fbf48bf15c0622a253f8ecc9c75ed6a3091b9abd6be025",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.3.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.4.jar",
       "size": 22967
     },
     {
-      "name": "http-api-1.20.3.jar",
-      "hash": "764b22aa67193182b0d82861f9c8f2f895a608b96d5e4e8a645dc3e16efcc61d",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.3.jar",
+      "name": "http-api-1.20.4.jar",
+      "hash": "2211ca63b7e405c86dcbc0883624bcc034812c06d9735f981ccdcd2859a4c6cb",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.4.jar",
       "size": 136383
     }
   ],
-  "buildCommit": "1d255f450ed9177aeb2f018890cac627e52a3033",
+  "buildCommit": "13c84b5aaf76e672fde2439a109068426a3c33aa",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
-    "version": "1.7.23",
-    "sanliteVersion": "1.20.3",
+    "version": "1.7.24",
+    "sanliteVersion": "1.20.4",
     "osrsRevision": "199"
   },
   "clientJvm9Arguments": [
