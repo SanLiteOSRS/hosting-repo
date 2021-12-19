@@ -211,6 +211,12 @@
       "size": 59579
     },
     {
+      "name": "commons-csv-1.4.jar",
+      "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
+      "path": "https://mvn.runelite.net/org/apache/commons/commons-csv/1.4/commons-csv-1.4.jar",
+      "size": 39978
+    },
+    {
       "name": "runelite-client-1.20.15.jar",
       "hash": "376b3619caf2ca269115ab926ca519971f8d875964c3790c3d06e3b2e3c51e97",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.15.jar",
@@ -236,12 +242,12 @@
     },
     {
       "name": "http-api-1.20.15.jar",
-      "hash": "a3053b2759cc103de83453fe89fca41a4e7bcc35fc64d1c0fa09b60a1de40e21",
+      "hash": "291d11d60f5a51b68f0049079448ffa75400ac1f113042e57293261ae7b18622",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.15.jar",
-      "size": 97526
+      "size": 97525
     }
   ],
-  "buildCommit": "69a520d8831fe26566dad9cbc427484579aa78d1",
+  "buildCommit": "bef9382199cb765edbbf872722aec39c9e437206",
   "client": {
     "artifactId": "client",
     "classifier": "",
