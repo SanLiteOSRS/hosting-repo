@@ -163,16 +163,16 @@
       "size": 19936
     },
     {
-      "name": "okhttp-3.7.0.jar",
-      "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
-      "path": "https://mvn.runelite.net/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.jar",
-      "size": 394987
+      "name": "okhttp-3.14.9.jar",
+      "hash": "2570fab55515cbf881d7a4ceef49fc515490bc027057e666776a2832465aeca0",
+      "path": "https://mvn.runelite.net/com/squareup/okhttp3/okhttp/3.14.9/okhttp-3.14.9.jar",
+      "size": 430488
     },
     {
-      "name": "okio-1.12.0.jar",
-      "hash": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae",
-      "path": "https://mvn.runelite.net/com/squareup/okio/okio/1.12.0/okio-1.12.0.jar",
-      "size": 81088
+      "name": "okio-1.17.2.jar",
+      "hash": "f80ce42d2ffac47ad4c47e1d6f980d604d247ceb1a886705cf4581ab0c9fe2b8",
+      "path": "https://mvn.runelite.net/com/squareup/okio/okio/1.17.2/okio-1.17.2.jar",
+      "size": 91980
     },
     {
       "name": "commons-csv-1.4.jar",
@@ -242,12 +242,12 @@
     },
     {
       "name": "http-api-1.20.15.jar",
-      "hash": "291d11d60f5a51b68f0049079448ffa75400ac1f113042e57293261ae7b18622",
+      "hash": "6c92133f0ac49c6c08b5eca7798c91be387da8422e2fe71b6d6d8c777ba4c656",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/http-api-1.20.15.jar",
       "size": 97525
     }
   ],
-  "buildCommit": "bef9382199cb765edbbf872722aec39c9e437206",
+  "buildCommit": "0b6fc84dd113ac7ea302a302fd409d8be78bd31c",
   "client": {
     "artifactId": "client",
     "classifier": "",
