@@ -223,18 +223,6 @@
       "size": 58112
     },
     {
-      "name": "rsyntaxtextarea-3.1.2.jar",
-      "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
-      "path": "https://repo.maven.apache.org/maven2/com/fifesoft/rsyntaxtextarea/3.1.2/rsyntaxtextarea-3.1.2.jar",
-      "size": 1209918
-    },
-    {
-      "name": "autocomplete-3.1.1.jar",
-      "hash": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
-      "path": "https://repo.maven.apache.org/maven2/com/fifesoft/autocomplete/3.1.1/autocomplete-3.1.1.jar",
-      "size": 153177
-    },
-    {
       "name": "runelite-client-1.20.16.jar",
       "hash": "36c989e4789465801e44bde017bb7fb8592a98cbbfe3c790039c7b912e55633a",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.16.jar",
