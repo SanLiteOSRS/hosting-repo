@@ -223,38 +223,38 @@
       "size": 58112
     },
     {
-      "name": "runelite-client-1.20.22.jar",
-      "hash": "35c03702f6a85f9efb56142b053a53bcd2e25a901ff5276341aff4d7c90d0e70",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.22.jar",
-      "size": 10418801
+      "name": "runelite-client-1.20.23.jar",
+      "hash": "bea27508469e8d89f29e6159d51ba08dc6c0d27e897b4057b1ae83ddd87ab5a4",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.23.jar",
+      "size": 10427694
     },
     {
-      "name": "runelite-api-1.20.22.jar",
-      "hash": "6ad1eef0117aa02fcd88c3f8bfc27cfd76e511bbe0e3534621b83940c1e29d4d",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.22.jar",
-      "size": 1226901
+      "name": "runelite-api-1.20.23.jar",
+      "hash": "393a4d08e0c57e5109d7f90eb2df1343ece4fdb4d8f8a933a35a706bddb45ee6",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-api-1.20.23.jar",
+      "size": 1227077
     },
     {
-      "name": "runescape-api-1.20.22.jar",
-      "hash": "db139e0e452fc4dd4f4074e388c24b4fe3a617a85938a1268d4ab03b361676c2",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.22.jar",
-      "size": 116266
+      "name": "runescape-api-1.20.23.jar",
+      "hash": "f82ebb825de1c58a3b30572e585bdb7ad8a16e55ef9a7d2ff409d98bd6a03e8a",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runescape-api-1.20.23.jar",
+      "size": 116462
     },
     {
-      "name": "runelite-jshell-1.20.22.jar",
+      "name": "runelite-jshell-1.20.23.jar",
       "hash": "758c753f1fc627241cb3a707da4dfb808380f37050820344163b1ee5867e69e5",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.22.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-jshell-1.20.23.jar",
       "size": 22969
     }
   ],
-  "buildCommit": "decee8f91b35dfa5419e4ab0ec3d77d2211bcf25",
+  "buildCommit": "2da184d7cb0785277d347f6e05640275249dab08",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
-    "version": "1.8.12",
-    "sanliteVersion": "1.20.22",
+    "version": "1.8.13",
+    "sanliteVersion": "1.20.23",
     "osrsRevision": "203"
   },
   "clientJvm9Arguments": [
