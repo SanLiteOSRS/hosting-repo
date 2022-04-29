@@ -230,9 +230,9 @@
     },
     {
       "name": "runelite-client-1.20.31.jar",
-      "hash": "4b70c3590108f88beb53ffb10dcff0c8dfa8b15257381c1249744970aad1dc39",
+      "hash": "8103f0acc89294356b8846749a5a8d90c2fe73479f167bca3d9de2185c4ff1c7",
       "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-client-1.20.31.jar",
-      "size": 10449931
+      "size": 10449364
     },
     {
       "name": "runelite-api-1.20.31.jar",
@@ -253,7 +253,7 @@
       "size": 22969
     }
   ],
-  "buildCommit": "bcccb68848b0e274435316b92cd630cb3f93c605",
+  "buildCommit": "f1104b96497db388e66f7daf3dc2641433d2d6dc",
   "client": {
     "artifactId": "client",
     "classifier": "",
