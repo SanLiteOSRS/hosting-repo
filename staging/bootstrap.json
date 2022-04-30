@@ -229,38 +229,38 @@
       "size": 132196
     },
     {
-      "name": "runelite-client-1.20.31.jar",
-      "hash": "8103f0acc89294356b8846749a5a8d90c2fe73479f167bca3d9de2185c4ff1c7",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-client-1.20.31.jar",
-      "size": 10449364
+      "name": "runelite-client-1.20.32.jar",
+      "hash": "44aacdc4a81bceb488bb0fa5ce60644c207ef66ca9fded258e7f2b518931bd0a",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-client-1.20.32.jar",
+      "size": 10449347
     },
     {
-      "name": "runelite-api-1.20.31.jar",
+      "name": "runelite-api-1.20.32.jar",
       "hash": "2d3df35c3526e8c9b2fbae73790e780d68488839fd4a24cfb13d5028ce679951",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-api-1.20.31.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-api-1.20.32.jar",
       "size": 1231665
     },
     {
-      "name": "runescape-api-1.20.31.jar",
+      "name": "runescape-api-1.20.32.jar",
       "hash": "7efc847e7ccbe3e328fc94ea68b746764ba5e12bf24a8327ae00f4c4f96d637d",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runescape-api-1.20.31.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runescape-api-1.20.32.jar",
       "size": 117643
     },
     {
-      "name": "runelite-jshell-1.20.31.jar",
+      "name": "runelite-jshell-1.20.32.jar",
       "hash": "758c753f1fc627241cb3a707da4dfb808380f37050820344163b1ee5867e69e5",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-jshell-1.20.31.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-jshell-1.20.32.jar",
       "size": 22969
     }
   ],
-  "buildCommit": "f1104b96497db388e66f7daf3dc2641433d2d6dc",
+  "buildCommit": "7a8e8588b3c337ded7cb78e6acddf0ede3ad0ab4",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
     "version": "1.8.18.4",
-    "sanliteVersion": "1.20.31",
+    "sanliteVersion": "1.20.32",
     "osrsRevision": "204.6"
   },
   "clientJvm9Arguments": [
