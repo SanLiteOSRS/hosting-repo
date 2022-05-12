@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "430fb48785de5a9f2587a34ca5bfa27753b1abd3",
+    "buildCommit": "005ebfda98e17b483b43898b90415a918d968362",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -44,7 +44,7 @@
         "jocl-1.0-macos-x64.jar": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
         "http-api-1.0.0.jar": "49132e91d30944682c7caa3d20f764d2112b59ac7ccd9cab89ca08e917c4632e",
         "gluegen-rt-2.4.0-rc-20220318-natives-windows-i586.jar": "fc235e8164cbac2382053b850b10cd7cc971241b54b3f84410ff54edd71c852d",
-        "runelite-client-1.20.34.jar": "01bbdc056c42b1e23c7233d5733e79a6f384c56d4406afcb0bb9f8fc728a0544",
+        "runelite-client-1.20.34.jar": "7d86060fa66709a71223867c2973008c2362233ed5c1f2934d982cd485741f8c",
         "commons-io-2.8.0.jar": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
         "reactive-streams-1.0.3.jar": "1dee0481072d19c929b623e155e14d2f6085dc011529a0a0dbefc84cf571d865",
         "jna-platform-5.9.0.jar": "1903bc6d87f3ab92023957b91f45a9c8eb3515bad030356ce977201e5141b724",
@@ -524,9 +524,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/staging/runelite-client-1.20.34.jar",
-            "size": 10637118,
+            "size": 10634134,
             "name": "runelite-client-1.20.34.jar",
-            "hash": "01bbdc056c42b1e23c7233d5733e79a6f384c56d4406afcb0bb9f8fc728a0544"
+            "hash": "7d86060fa66709a71223867c2973008c2362233ed5c1f2934d982cd485741f8c"
         }
     ]
 }
