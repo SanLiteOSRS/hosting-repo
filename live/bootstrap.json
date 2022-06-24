@@ -530,10 +530,10 @@
             "hash": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16"
         },
         {
-            "path": "https://raw.githubusercontent.com/sanliteosrs/hosting-repo/master/live/runelite-client-1.20.38.jar",
-            "size": 10668142,
-            "name": "runelite-client-1.20.38.jar",
-            "hash": "c007443282e774b8da2058d2e95347198ec16afefacea475443371772fbec7f1"
+            "path": "",
+            "size": "",
+            "name": "",
+            "hash": ""
         }
     ]
 }
